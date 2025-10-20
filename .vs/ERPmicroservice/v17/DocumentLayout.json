@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\",
+  "WorkspaceRootPath": "E:\\coding\\ERPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|c:\\users\\sumit\\source\\repos\\erpmicroservice\\masterapi\\repository\\implementation\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}|Shared\\Shared.csproj|e:\\coding\\erpt\\shared\\configuration\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}|Shared\\Shared.csproj|solutionrelative:shared\\configuration\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|e:\\coding\\erpt\\masterapi\\repository\\implementation\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|solutionrelative:masterapi\\repository\\implementation\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|c:\\users\\sumit\\source\\repos\\erpmicroservice\\masterapi\\repository\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|e:\\coding\\erpt\\masterapi\\repository\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|solutionrelative:masterapi\\repository\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|c:\\users\\sumit\\source\\repos\\erpmicroservice\\masterapi\\models\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|e:\\coding\\erpt\\masterapi\\models\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|solutionrelative:masterapi\\models\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|c:\\users\\sumit\\source\\repos\\erpmicroservice\\masterapi\\masterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|e:\\coding\\erpt\\masterapi\\masterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|solutionrelative:masterapi\\masterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|c:\\users\\sumit\\source\\repos\\erpmicroservice\\masterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|e:\\coding\\erpt\\masterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}|MasterAPI\\MasterAPI.csproj|solutionrelative:masterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -35,10 +39,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\coding\\ERPT\\Shared\\Configuration\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Shared\\Configuration\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\coding\\ERPT\\Shared\\Configuration\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Shared\\Configuration\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:53:50.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Repository\\Implementation\\UserServices.cs",
+              "DocumentMoniker": "E:\\coding\\ERPT\\MasterAPI\\Repository\\Implementation\\UserServices.cs",
               "RelativeDocumentMoniker": "MasterAPI\\Repository\\Implementation\\UserServices.cs",
-              "ToolTip": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Repository\\Implementation\\UserServices.cs",
+              "ToolTip": "E:\\coding\\ERPT\\MasterAPI\\Repository\\Implementation\\UserServices.cs",
               "RelativeToolTip": "MasterAPI\\Repository\\Implementation\\UserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUserServices.cs",
-              "DocumentMoniker": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Repository\\Services\\IUserServices.cs",
+              "DocumentMoniker": "E:\\coding\\ERPT\\MasterAPI\\Repository\\Services\\IUserServices.cs",
               "RelativeDocumentMoniker": "MasterAPI\\Repository\\Services\\IUserServices.cs",
-              "ToolTip": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Repository\\Services\\IUserServices.cs",
+              "ToolTip": "E:\\coding\\ERPT\\MasterAPI\\Repository\\Services\\IUserServices.cs",
               "RelativeToolTip": "MasterAPI\\Repository\\Services\\IUserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Models\\UserRequestModel.cs",
+              "DocumentMoniker": "E:\\coding\\ERPT\\MasterAPI\\Models\\UserRequestModel.cs",
               "RelativeDocumentMoniker": "MasterAPI\\Models\\UserRequestModel.cs",
-              "ToolTip": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Models\\UserRequestModel.cs",
+              "ToolTip": "E:\\coding\\ERPT\\MasterAPI\\Models\\UserRequestModel.cs",
               "RelativeToolTip": "MasterAPI\\Models\\UserRequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,12 +90,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MasterAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\MasterAPI.csproj",
+              "DocumentMoniker": "E:\\coding\\ERPT\\MasterAPI\\MasterAPI.csproj",
               "RelativeDocumentMoniker": "MasterAPI\\MasterAPI.csproj",
-              "ToolTip": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\MasterAPI.csproj*",
-              "RelativeToolTip": "MasterAPI\\MasterAPI.csproj*",
+              "ToolTip": "E:\\coding\\ERPT\\MasterAPI\\MasterAPI.csproj",
+              "RelativeToolTip": "MasterAPI\\MasterAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-16T08:25:24.582Z",
@@ -86,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\coding\\ERPT\\MasterAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MasterAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\sumit\\source\\repos\\ERPmicroservice\\MasterAPI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\coding\\ERPT\\MasterAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "MasterAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

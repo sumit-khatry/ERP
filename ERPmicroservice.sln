@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterAPI", "MasterAPI\MasterAPI.csproj", "{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDF88D6-BABE-4078-A5C7-1F5301417AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABC23EC-81B5-46D4-B27A-13B5F94B70AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i84/FlnhXV0=",
+  "success": true,
+  "projectFilePath": "E:\\coding\\ERPT\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumit\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
