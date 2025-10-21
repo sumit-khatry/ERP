@@ -46,8 +46,7 @@
               "RelativeToolTip": "Shared\\Configuration\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:53:50.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T05:53:50.578Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "MasterAPI\\Repository\\Implementation\\UserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:32:18.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:32:18.801Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "MasterAPI\\Repository\\Services\\IUserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:31:57.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:31:57.479Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "MasterAPI\\Models\\UserRequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:26:35.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:26:35.185Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "MasterAPI\\MasterAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T08:25:24.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:25:24.582Z"
             },
             {
               "$type": "Document",
@@ -111,8 +106,7 @@
               "RelativeToolTip": "MasterAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T08:24:31.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:24:31.372Z"
             }
           ]
         }

@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DataAccess\Dapper\" />
     <Folder Include="DataAccess\GenericRepository\" />
   </ItemGroup>
 
